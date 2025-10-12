@@ -12,7 +12,7 @@
   "type": "commonjs",
   "packageManager": "npm@9.6.7",
   "dependencies": {
-    "@action-test-ash17290/ui": "^0.0.2",
+    "@action-test-ash17290/ui": "^1.0.0",
     "@action-test-ash17290/web": "^0.1.3",
     "source-repo": "^1.1.0"
   }
